@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zaheerk19n
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- this is my first repository
+- Author - zaheer khan
 
 <!---
 zaheerk19n/zaheerk19n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
